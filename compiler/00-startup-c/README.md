@@ -97,6 +97,15 @@ Flash the firmware:
 make flash
 ```
 
+## Demo
+
+STM32F103C8T6 Blue Pill running the bare-metal PC13 LED blink firmware.
+
+
+https://github.com/user-attachments/assets/c8065c13-22e1-4357-a7f3-9b3c2dc10134
+
+
+
 ## Disassembly
 
 ```bash
