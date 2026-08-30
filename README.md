@@ -1,4 +1,6 @@
-[![Repo Traffic](https://hits.sh/github.com/TrieuHzang/mcu-bare-metal.svg?label=Repo%20Views&style=flat-square)](https://hits.sh/github.com/TrieuHzang/mcu-bare-metal/)
+<p align="center">
+  <img src="https://hits.sh/github.com/TrieuHzang/mcu-bare-metal.svg?label=Repo%20Traffic&color=007ec6" alt="Repo Traffic">
+</p>
 
 # MCU Bare-Metal
 
