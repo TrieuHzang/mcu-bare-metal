@@ -79,7 +79,7 @@ make flash
 
 ## Demo
 
-STM32F103C8T6 Blue Pill running the bare-metal PC13 LED blink firmware.
+STM32F103C8T6 Blue Pill running a bare-metal SysTick interrupt example, toggling the PC13 LED every 500 ms.
 
 
 https://github.com/user-attachments/assets/592bdd6a-85bf-4c5f-8e7c-45e11f96bc96
