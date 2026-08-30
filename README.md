@@ -1,3 +1,5 @@
+[![Repo Traffic](https://hits.sh/github.com/TrieuHzang/mcu-bare-metal.svg?label=Repo%20Views&style=flat-square)](https://hits.sh/github.com/TrieuHzang/mcu-bare-metal/)
+
 # MCU Bare-Metal
 
 Bare-metal programming exercises for ARM Cortex-M microcontrollers.
