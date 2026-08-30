@@ -77,6 +77,15 @@ make
 make flash
 ```
 
+## Demo
+
+STM32F103C8T6 Blue Pill running the bare-metal PC13 LED blink firmware.
+
+
+https://github.com/user-attachments/assets/592bdd6a-85bf-4c5f-8e7c-45e11f96bc96
+
+
+
 ## Clean
 
 ```bash
