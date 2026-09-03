@@ -124,6 +124,7 @@ Hardware demo videos are included in the README of each example directory.
 |---|---|
 | [00-gpio-input](peripheral/00-gpio-input/) | GPIO input polling using PA0 and PC13 |
 | [01-exti-button](peripheral/01-exti-button/) | PA0 external interrupt using EXTI and NVIC |
+| [02-uart-polling](peripheral/02-uart-polling/) | USART1 TX/RX communication using polling |
 
 ## Abstraction Progression
 
@@ -231,6 +232,7 @@ mcu-bare-metal/
 +-- peripheral/
 |   +-- 00-gpio-input/
 |   +-- 01-exti-button/
+|   +-- 02-uart-polling/
 |   +-- README.md
 |
 +-- resources/
