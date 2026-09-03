@@ -219,16 +219,16 @@ mcu-bare-metal/
 +-- arm-cortex-m/
 |   +-- 00-systick/
 |
-+-- peripheral/
-|   +-- 00-gpio-input/
-|   +-- README.md
-|
 +-- hal-pattern/
 |   +-- 00-register-macro/
 |   +-- 01-register-struct/
 |   +-- 02-cmsis-device/
 |   +-- 03-hal-blocking/
 |   +-- 04-hal-nonblocking/
+|   +-- README.md
+|
++-- peripheral/
+|   +-- 00-gpio-input/
 |   +-- README.md
 |
 +-- resources/
