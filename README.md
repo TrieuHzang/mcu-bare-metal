@@ -123,6 +123,7 @@ Hardware demo videos are included in the README of each example directory.
 | Folder | Concept |
 |---|---|
 | [00-gpio-input](peripheral/00-gpio-input/) | GPIO input polling using PA0 and PC13 |
+| [01-exti-button](peripheral/01-exti-button/) | PA0 external interrupt using EXTI and NVIC |
 
 ## Abstraction Progression
 
@@ -229,6 +230,7 @@ mcu-bare-metal/
 |
 +-- peripheral/
 |   +-- 00-gpio-input/
+|   +-- 01-exti-button/
 |   +-- README.md
 |
 +-- resources/
