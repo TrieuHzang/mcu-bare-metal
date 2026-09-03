@@ -10,5 +10,5 @@ Bare-metal STM32F103C8T6 peripheral examples.
 | [01-exti-button](01-exti-button/) | GPIO external interrupt using EXTI and NVIC |
 | [02-uart-polling](02-uart-polling/) | USART communication using polling |
 | [03-uart-interrupt](03-uart-interrupt/) | USART communication using interrupts |
-| 04-timer-interrupt | STM32 timer interrupt |
+| [04-timer-interrupt](04-timer-interrupt/) | STM32 timer interrupt |
 | 05-pwm | Timer PWM output |
