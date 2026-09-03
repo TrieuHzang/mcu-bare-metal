@@ -7,7 +7,7 @@
 Bare-metal programming examples for ARM Cortex-M microcontrollers using the STM32F103C8T6 Blue Pill.
 
 <p align="center">
-  <img src="resources/kit-stm32f103c8t6-picture.png" width="420" alt="STM32F103C8T6 Blue Pill">
+  <img src="resources/kit-stm32f103c8t6-picture.png" width="220" alt="STM32F103C8T6 Blue Pill">
 </p>
 
 This repository focuses on understanding firmware below high-level abstractions, including compiler startup, linker scripts, Cortex-M features, memory-mapped registers, CMSIS Device, and STM32 HAL.
