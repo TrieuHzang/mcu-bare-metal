@@ -126,6 +126,7 @@ Hardware demo videos are included in the README of each example directory.
 | [01-exti-button](peripheral/01-exti-button/) | PA0 external interrupt using EXTI and NVIC |
 | [02-uart-polling](peripheral/02-uart-polling/) | USART1 TX/RX communication using polling |
 | [03-uart-interrupt](peripheral/03-uart-interrupt/) | USART1 receive interrupt using NVIC and ISR |
+| [04-timer-interrupt](peripheral/04-timer-interrupt/) | TIM2 periodic interrupt and PC13 LED toggle |
 
 ## Abstraction Progression
 
@@ -235,6 +236,7 @@ mcu-bare-metal/
 |   +-- 01-exti-button/
 |   +-- 02-uart-polling/
 |   +-- 03-uart-interrupt/
+|   +-- 04-timer-interrupt/
 |   +-- README.md
 |
 +-- resources/
