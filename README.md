@@ -127,6 +127,7 @@ Hardware demo videos are included in the README of each example directory.
 | [02-uart-polling](peripheral/02-uart-polling/) | USART1 TX/RX communication using polling |
 | [03-uart-interrupt](peripheral/03-uart-interrupt/) | USART1 receive interrupt using NVIC and ISR |
 | [04-timer-interrupt](peripheral/04-timer-interrupt/) | TIM2 periodic interrupt and PC13 LED toggle |
+| [05-pwm](peripheral/05-pwm/) | TIM2 Channel 1 hardware PWM output on PA0 |
 
 ## Abstraction Progression
 
@@ -237,6 +238,7 @@ mcu-bare-metal/
 |   +-- 02-uart-polling/
 |   +-- 03-uart-interrupt/
 |   +-- 04-timer-interrupt/
+|   +-- 05-pwm/
 |   +-- README.md
 |
 +-- resources/
