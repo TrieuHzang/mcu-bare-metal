@@ -369,3 +369,20 @@ If you have any questions or feedback about the system design, embedded firmware
 [![Email](https://img.shields.io/badge/Email-trieuhagiang1312%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:trieuhagiang1312@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-TrieuHzang-181717?style=flat&logo=github&logoColor=white)](https://github.com/TrieuHzang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haazangg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haazangg/)
+
+## HAL Patterns
+
+### 00-register-macro
+
+[00-register-macro](hal-pattern/00-register-macro/)
+
+Direct memory-mapped register access using C macros on the STM32F103C8T6.
+
+Topics:
+
+- RCC register access
+- GPIO register access
+- SysTick register access
+- PC13 LED control
+- 1 ms system tick
+- Non-blocking 500 ms LED timing
