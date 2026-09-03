@@ -118,6 +118,12 @@ Hardware demo videos are included in the README of each example directory.
 | [03-hal-blocking](hal-pattern/03-hal-blocking/) | STM32 HAL with blocking HAL_Delay |
 | [04-hal-nonblocking](hal-pattern/04-hal-nonblocking/) | STM32 HAL with non-blocking HAL_GetTick timing |
 
+### peripheral/
+
+| Folder | Concept |
+|---|---|
+| [00-gpio-input](peripheral/00-gpio-input/) | GPIO input polling using PA0 and PC13 |
+
 ## Abstraction Progression
 
 The HAL pattern examples show the same hardware operation at different abstraction levels.
@@ -212,6 +218,10 @@ mcu-bare-metal/
 |
 +-- arm-cortex-m/
 |   +-- 00-systick/
+|
++-- peripheral/
+|   +-- 00-gpio-input/
+|   +-- README.md
 |
 +-- hal-pattern/
 |   +-- 00-register-macro/
