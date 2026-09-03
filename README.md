@@ -19,7 +19,7 @@ PC13 LOW  = LED ON
 PC13 HIGH = LED OFF
 ```
 
-Hardware demo videos will be added after hardware verification.
+Hardware demo videos are included in the README of each example directory.
 
 ## Architecture
 
