@@ -11,7 +11,7 @@ The application behavior is intentionally kept similar between examples so that 
 | [00-register-macro](00-register-macro/) | Direct memory-mapped register access using C macros |
 | [01-register-struct](01-register-struct/) | Peripheral register access using C structures |
 | [02-cmsis-device](02-cmsis-device/) | CMSIS Core and STM32F1 CMSIS Device register definitions |
-| 03-hal-blocking | STM32 HAL with blocking delay |
+| [03-hal-blocking](03-hal-blocking/) | STM32 HAL with blocking delay |
 | 04-hal-nonblocking | STM32 HAL with non-blocking timing |
 
 ## Progression
