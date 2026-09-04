@@ -171,16 +171,17 @@ make sections
 make flash
 ```
 
-Hardware verification will be performed later when the Blue Pill is available.
-
 ## Clean
 
 ```bash
 make clean
 ```
 
-## Current Status
+## Demo
 
-Software build and ELF verification completed.
+STM32F103C8T6 Blue Pill running the CMSIS Device example with a 500 ms PC13 LED toggle.
 
-Hardware flashing and demo video will be added after hardware verification.
+
+https://github.com/user-attachments/assets/e5161fd2-aaa4-4954-949c-fcb3e88915c7
+
+
