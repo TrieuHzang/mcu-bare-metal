@@ -185,16 +185,16 @@ make sections
 make flash
 ```
 
-Hardware verification will be performed later when the Blue Pill is available.
-
 ## Clean
 
 ```bash
 make clean
 ```
 
-## Current Status
+## Demo
 
-Software build and ELF verification completed.
+STM32F103C8T6 Blue Pill running the STM32 HAL blocking example with a 500 ms PC13 LED toggle.
 
-Hardware flashing and demo video will be added after hardware verification.
+https://github.com/user-attachments/assets/d603f272-adcd-4085-8a4a-29584cdc16ad
+
+
