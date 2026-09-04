@@ -301,8 +301,12 @@ make flash
 make clean
 ```
 
-## Current Status
+## Demo
 
-Software build and ELF verification completed.
+STM32F103C8T6 Blue Pill EXTI button interrupt demo.
 
-Hardware demo video will be included here after hardware verification.
+Each PA0 button press generates an EXTI0 interrupt and toggles the onboard PC13 LED.
+
+https://github.com/user-attachments/assets/f83262dc-d7e7-4411-ba1d-2eb17650f388
+
+
