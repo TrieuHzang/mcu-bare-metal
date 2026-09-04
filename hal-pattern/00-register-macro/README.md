@@ -248,8 +248,11 @@ make flash
 make clean
 ```
 
-## Current Status
+## Demo
 
-Software build and ELF verification completed.
+STM32F103C8T6 Blue Pill running the register-macro example with a 500 ms PC13 LED toggle.
 
-Hardware flashing and demo video will be added after hardware verification.
+
+https://github.com/user-attachments/assets/3eb7169b-fa8b-4bd0-a042-01dc0251adb0
+
+
