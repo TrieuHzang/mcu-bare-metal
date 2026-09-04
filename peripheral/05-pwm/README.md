@@ -373,9 +373,3 @@ make flash
 ```bash
 make clean
 ```
-
-## Current Status
-
-Software build and ELF verification completed.
-
-Hardware demo video will be included here after hardware verification.
