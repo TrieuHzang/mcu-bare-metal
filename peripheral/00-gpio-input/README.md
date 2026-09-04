@@ -176,8 +176,12 @@ make flash
 make clean
 ```
 
-## Current Status
+## Demo
 
-Software build and ELF verification completed.
+STM32F103C8T6 Blue Pill GPIO input demo.
 
-Hardware demo video will be included here after hardware verification.
+Pressing the PA0 button turns the onboard PC13 LED on.
+
+https://github.com/user-attachments/assets/2eabfc2d-6099-46d7-8b31-1e53f21ba5b1
+
+
