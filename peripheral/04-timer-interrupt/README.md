@@ -335,8 +335,10 @@ make flash
 make clean
 ```
 
-## Current Status
+## Demo
 
-Software build and ELF verification completed.
+STM32F103C8T6 TIM2 interrupt demo with a 500 ms PC13 LED toggle.
 
-Hardware demo video will be included here after hardware verification.
+https://github.com/user-attachments/assets/99d6ea4c-0333-4f06-8370-0d955e28307c
+
+
