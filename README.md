@@ -418,7 +418,7 @@ Hardware verification for the newer HAL pattern examples will be completed when 
 
 ## Contact & Support
 
-**Trieu Ha Giang** - Embedded Systems Engineering Student
+**Trieu Ha Giang** - Embedded Systems Engineer
 
 ```text
 Thank you for visiting this repository.
