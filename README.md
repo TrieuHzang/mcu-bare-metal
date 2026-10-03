@@ -4,7 +4,7 @@
 
 # MCU Bare-Metal
 
-Bare-metal programming examples for ARM Cortex-M microcontrollers using the STM32F103C8T6 Blue Pill.
+Bare-metal programming examples for ARM Cortex-M microcontrollers using the STM32F103C8T6 Blue Pill
 
 <p align="center">
   <img src="resources/kit-stm32f103c8t6-picture.png" width="220" alt="STM32F103C8T6 Blue Pill">
